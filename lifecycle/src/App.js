@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
     <h1>Github Users</h1>
-      //<Users/>
+      <Users/>
       </div>
   );
 }
